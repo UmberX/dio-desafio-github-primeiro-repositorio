@@ -1,4 +1,8 @@
+
+Estou tentando realizar este bootcamp, foi interessante para mim, no momento meu objetivo não é trabalhar, é obter mais conhecimento, estou interessado em tecnologia da informação, não venho de um país de língua portuguesa, meu idioma é espanhol, é um projeto de teste, obrigado..
+
 Lista para download do Git: https://git-scm.com/downloads
+
 O Git Bash o um terminal extendido para optimizar o do Git.
 
 Criando seu Primeiro Repositório
